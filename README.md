@@ -18,8 +18,8 @@ A simple console-based secure messaging application implemented in Java, enablin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CryptoMessenger.git
-   cd CryptoMessenger
+   git clone https://github.com/Khumoyun1307/Cryptographic-Messager-Program.git
+   cd Cryptographic-Messager-Program
    ```
 
 2. **Compile the source files**
